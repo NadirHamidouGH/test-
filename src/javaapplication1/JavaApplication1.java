@@ -25,8 +25,10 @@ public class JavaApplication1 {
         a = 1; b = 2 ;
         int c  = 10;
         som = a + b;
+        int value = 10 ;
         
         System.out.println("la some de a et b est :  "+som);
+        System.out.println(" message 1 ");
      
         
     }
