@@ -21,7 +21,7 @@ public class JavaApplication1 {
         int som = 0;
         
         int a , b ;
-        
+        new
         a = 1; b = 2 ;
         int c  = 10;
         new 
