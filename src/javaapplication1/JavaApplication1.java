@@ -29,6 +29,7 @@ public class JavaApplication1 {
         
         System.out.println("la some de a et b est :  "+som);
         System.out.println(" message 1 ");
+        System.out.println(" message 2 ");
      
         
     }
